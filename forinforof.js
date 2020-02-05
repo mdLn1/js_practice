@@ -22,10 +22,10 @@ function forof(param){
     return result;
 }
 
-// console.log(forin(obj));
+ console.log(forof("fdasf"));
 
-function getCapitalLetters(letters) {
-	return letters.filter(letter => (
-		letter === letter.toUpperCase()
-	);
-}
+// function getCapitalLetters(letters) {
+// 	return letters.filter(letter => (
+// 		letter === letter.toUpperCase()
+// 	);
+// }
